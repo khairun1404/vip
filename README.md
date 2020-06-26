@@ -7,8 +7,8 @@
 
 • pkg instal python2
 
-• git klon https://github.com/khairun1404/pro
+• git klon https://github.com/khairun1404/vip
 
-• cd pro
+• cd vip
 
-• python2 pro.py
+• python2 vip.py
